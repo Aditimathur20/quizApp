@@ -1,6 +1,7 @@
 # quizApp
 App with api's written in node.js and mongodb
-Users can create an account.
+
+● Users can create an account.
 ● Users can login into the account.
 ● Users can create their own quiz with multiple questions & answers.
 ● Users cannot manipulate other users' quiz templates.
